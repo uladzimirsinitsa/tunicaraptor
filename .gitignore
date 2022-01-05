@@ -1,0 +1,14 @@
+__pycache__
+venv
+env
+config_DB.py
+*.pyc
+.vscode
+Dockerfile
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.env
+instruction
